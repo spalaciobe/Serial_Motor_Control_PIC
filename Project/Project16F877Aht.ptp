@@ -1,0 +1,59 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+COM1
+COM2
+9600
+2
+63
+4
+0
+0
+
+COMMDISPLAY
+0
+
+VERSATAP
+0
+
+CHANNELALIAS
+
+
+
+SEND
+0
+subir
+73 75 62 69 72 0D 0A
+0
+5
+
+SEND
+1
+bajar
+62 61 6A 61 72 0D 0A
+0
+5
+
+SEND
+2
+parar
+70 61 72 61 72 0D 0A
+0
+5
+
+SEND
+3
+acelerar
+61 63 65 6C 65 72 61 72 0D 0A
+0
+5
+
+SEND
+4
+desacelerar
+64 65 73 61 63 65 6C 65 72 61 72 0D 0A
+0
+5
+
